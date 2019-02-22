@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Fri Feb 22 00:45:52 IST 2019
+1.base=D\:\\Medifinder\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+2.path=classes.dex
+0.baseType=DIRECTORY
+2.base=D\:\\Medifinder\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+2.set=DEX
+1.baseType=DIRECTORY
+count=3
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=D\:\\Medifinder\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+2.baseType=DIRECTORY
+1.path=classes2.dex
